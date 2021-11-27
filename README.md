@@ -4,3 +4,5 @@
 本仓库罗列了中国女权在中国犯下的罪行，与反人类言论。
 
 打倒女拳邪教分子，维护国家和谐稳定！
+
+镜像女拳仓库：https://github.com/ChinaFeminist/ChinaFeminist
